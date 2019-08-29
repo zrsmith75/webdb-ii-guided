@@ -16,4 +16,4 @@ Guided project **DB II** Module.
 
 Please follow along as the instructor explores schema design with this API.
 
-- [x] Test secure GPG signature ~ verified
+- [x] Test secure GPG signature ~ verified (not verified)
